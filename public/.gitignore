@@ -1,0 +1,5 @@
+# Ignore apenas a pasta .vscode e .vs
+.vscode/
+.vs/
+
+#

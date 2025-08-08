@@ -1,0 +1,17 @@
+[33mcommit 71ef0130d03c313c88e814c3a95838915b6325ff[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matheus Britto <britto190499@gmail.com>
+Date:   Thu Aug 7 21:12:41 2025 -0300
+
+    Remove vendor directory and add to .gitignore
+
+[33mcommit 3a67b2d55edcd63e68fffbc0519a9f63e8536fe9[m
+Author: Matheus Britto <britto190499@gmail.com>
+Date:   Thu Aug 7 21:10:10 2025 -0300
+
+    Clean commit without secrets
+
+[33mcommit bcd73dfed3c9027a616e5b333c776cf6d50c4a06[m
+Author: Matheus Britto <matheus@stssistemas.com.br>
+Date:   Thu Aug 7 20:31:26 2025 -0300
+
+    Initial commit - Master OS project
